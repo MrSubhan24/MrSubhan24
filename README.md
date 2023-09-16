@@ -1,5 +1,6 @@
 
-Hi there 👋 I'm MR.SUBHAN 👨‍💻<br>Front End developer from indonesia
+# Hi there 👋 I'm MR.SUBHAN 👨‍💻
+Front End developer from indonesia
 
 
 # 💻 Tech Stack:
